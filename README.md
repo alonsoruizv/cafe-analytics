@@ -2,7 +2,7 @@
 
 A data analytics dashboard built for Maven Roasters, a fictional 3-location coffee shop chain. The dataset covers 6 months of transaction data (Jan–Jun 2023) across Astoria, Hell's Kitchen, and Lower Manhattan. Sourced from Kaggle. 
 
-**Live app →** https://cafe-analytics-alonso-ruiz.streamlit.app/ **
+**Live app →** https://cafe-analytics-alonso-ruiz.streamlit.app/ 
 
 ---
 
