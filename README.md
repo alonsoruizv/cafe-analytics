@@ -31,7 +31,7 @@ This dashboard turns that transaction log into four actionable answers.
 
 **Store performance** — All three locations track almost identically in monthly growth. No one location is pulling ahead or falling behind. That's likely a sign the brand is consistent and markets are the same (same customer behaviour).
 
-**Growth** — The business revenue grew significantly over March to May (+20% each month), with a single digit growth during June. Overall trending possitively after a slow start in February.  
+**Growth** — The business revenue grew significantly over March to May (+20% each month), with a single digit growth during June. Overall trending positively after a slow start in February.  
 
 ---
 
